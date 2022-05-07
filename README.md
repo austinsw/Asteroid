@@ -4,7 +4,12 @@ This is one of the challenge I submitted when I participated in 2021 Credit Suis
 
 **Note that the programe is developed on Replit, so the libraries used are Replit specific!**
 
-To test POST request, I used Postman, an onlint API testing platform.
+To test POST request for free, I used [Postman](https://www.postman.com/), an onlint API testing platform.
+
+## Installed packages
+
+- Flask version: 2.1.2
+- replit version: 3.2.4
 
 ## Requirements
 
