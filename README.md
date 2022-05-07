@@ -1,6 +1,12 @@
 # Asteroid
 
-### Instructions
+This is one of the challenge I submitted when I participated in 2021 Credit Suisse Online Coding Challenge - CodeIT Suisse Hong Kong.
+
+**Note that the programe is developed on Replit, so the libraries used are Replit specific!**
+
+To test POST request, I used Postman, an onlint API testing platform.
+
+### Requirements
 
 Earth is in imminent danger from natural disaster! A line of asteroids of similar sizes are hurtling pass Mars at an
 astounding speed and will reach Earth in a matter of days. You are part of a military research team tasked with stopping
